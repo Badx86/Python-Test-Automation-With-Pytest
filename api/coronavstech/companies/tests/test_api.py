@@ -15,11 +15,12 @@ def test_zero_companies_should_return_empty_list(client) -> None:
     assert json.loads(response.content) == []
 
 
-def test_one_company_exists_should_succeed(client, amazon) -> None:
+def test_one_company_exists_should_succeed(client) -> None:
+    test_company = Company.objects.create(name="Amazon")
     response = client.get(companies_url)
     response_content = json.loads(response.content)[0]
     assert response.status_code == 200
-    assert response_content.get("name") == amazon.name
+    assert response_content.get("name") == test_company.name
     assert response_content.get("status") == "Hiring"
     assert response_content.get("application_link") == ""
     assert response_content.get("notes") == ""
