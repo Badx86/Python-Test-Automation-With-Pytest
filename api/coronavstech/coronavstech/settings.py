@@ -12,7 +12,10 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 import os
 from pathlib import Path
 from dotenv import load_dotenv
-load_dotenv(r"C:\Users\мвидео\PycharmProjects\UDEMY-PythonTestAutomationWithPytest\.env")
+
+load_dotenv(
+    r"C:\Users\мвидео\PycharmProjects\UDEMY-PythonTestAutomationWithPytest\.env"
+)
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -123,7 +126,7 @@ EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = "apikey"
 EMAIL_HOST = "smtp.sendgrid.net"
-SENDGRID_API_KEY = os.getenv('SENDGRID_API_KEY')
+SENDGRID_API_KEY = os.getenv("SENDGRID_API_KEY")
 EMAIL_HOST_PASSWORD = SENDGRID_API_KEY
 EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER

@@ -15,12 +15,18 @@ class CompanyViewSet(ModelViewSet):
 
 
 @api_view(http_method_names=["POST"])
-def send_company_email(request: Request):
+def send_company_email(request: Request) -> Response:
     """
     sends email with request payload
     sender: stanislav.osipov89@gmail.com
     reciever: badlolpro@gmail.com
     """
-    send_mail(subject=request.data.get("subject"), message=request.data.get("message"), \
-              from_email="stanislav.osipov89@gmail.com", recipient_list=["badlolpro@gmail.com"], fail_silently=False)
-    return Response({"status": "success", "info": "email sent successfully"}, status=200)
+    send_mail(
+        subject=request.data.get("subject"),
+        message=request.data.get("message"),
+        from_email="stanislav.osipov89@gmail.com",
+        recipient_list=["badlolpro@gmail.com"],
+    )
+    return Response(
+        {"status": "success", "info": "email sent successfully"}, status=200
+    )

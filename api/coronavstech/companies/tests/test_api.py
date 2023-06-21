@@ -114,4 +114,5 @@ def test_logged_info_level(caplog) -> None:
         logger.info("I am logging info level")
         assert "I am logging info level" in caplog.text
 
+
 # --------------Learn about fixtures tests--------------
