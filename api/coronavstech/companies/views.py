@@ -18,11 +18,9 @@ class CompanyViewSet(ModelViewSet):
 def send_company_email(request: Request):
     """
     sends email with request payload
-    sender: test_for_udemy@proton.me
-    reciever: test_for_udemy@proton.me
+    sender: stanislav.osipov89@gmail.com
+    reciever: badlolpro@gmail.com
     """
-    # send_mail('Subject here', 'Here is the message.', 'stanislav.osipov89@gmail.com', ['badlolpro@gmail.com'], \
-    # fail_silently=False)
-    send_mail(subject=request.data.get("subject"), message=request.data.get("message"),
-              from_email="stanislav.osipov89@gmail.com", recipient_list=["badlolpro@gmail.com"])
+    send_mail(subject=request.data.get("subject"), message=request.data.get("message"), \
+              from_email="stanislav.osipov89@gmail.com", recipient_list=["badlolpro@gmail.com"], fail_silently=False)
     return Response({"status": "success", "info": "email sent successfully"}, status=200)
