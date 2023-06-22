@@ -1,7 +1,7 @@
 import pytest
 
 from fibonacci.dynamic import fibonacci_dynamic, fibonacci_dynamic_v2
-from fixtures import time_tracker
+from conftest import time_tracker
 from typing import Callable
 from fibonacci.cached import fibonacci_cached, fibonacci_lru_cached
 from fibonacci.naive import fibonacci_naive
