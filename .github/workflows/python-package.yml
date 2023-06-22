@@ -27,8 +27,8 @@ jobs:
 
       - name: Set environment variable
         run: |
-          export DJANGO_SETTINGS_MODULE=api.coronavstech.coronavstech.settings
-          export PYTHONPATH=$PYTHONPATH:C:\Users\мвидео\PycharmProjects\UDEMY-PythonTestAutomationWithPytest;C:\Users\мвидео\PycharmProjects\UDEMY-PythonTestAutomationWithPytest\api\coronavstech
+          echo "export DJANGO_SETTINGS_MODULE=api.coronavstech.coronavstech.settings" >> $GITHUB_ENV
+          echo "set PYTHONPATH=%PYTHONPATH%;C:\Users\мвидео\PycharmProjects\UDEMY-PythonTestAutomationWithPytest;C:\Users\мвидео\PycharmProjects\UDEMY-PythonTestAutomationWithPytest\api\coronavstech" >> $GITHUB_ENV
 
       - name: Run pytest
         run: |
