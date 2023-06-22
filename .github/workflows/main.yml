@@ -1,0 +1,29 @@
+name: Python application test with Github Actions
+
+on: [push, pull_request]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.10]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pipenv
+        pipenv install --system
+    - name: Django Company API tests
+      run: |
+        pytest api/coronavstech -s -v --durations=0 --cov=. -m "not skip_in_ci"
+    - name: Fibonacci tests
+      run: |
+        pytest fibonacci/ -s -v --durations=0 --cov=.
