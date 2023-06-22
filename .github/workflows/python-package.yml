@@ -35,4 +35,4 @@ jobs:
 
       - name: Run pytest
         run: |
-          pipenv run pytest tests/ -s -v --durations=0 --cov=.
+          pytest
