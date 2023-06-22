@@ -29,10 +29,6 @@ jobs:
         run: |
           export DJANGO_SETTINGS_MODULE=api.coronavstech.coronavstech.settings
 
-      - name: Set up virtual environment
-        run: |
-          pipenv shell
-
       - name: Run pytest
         run: |
-          pytest
+          pipenv run pytest tests/ -s -v --durations=0 --cov=.
