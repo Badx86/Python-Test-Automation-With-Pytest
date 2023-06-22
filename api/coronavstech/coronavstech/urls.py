@@ -16,11 +16,13 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+import fibonacci
 from api.coronavstech.companies.urls import companies_router
-from api.coronavstech.companies.views import send_company_email
+from api.coronavstech.companies.views import send_company_email, get_fibonacci
 
 urlpatterns = [
     path("admin/", admin.site.urls),
     path("", include(companies_router.urls)),
     path("send-email", send_company_email),
+    path("fibonacci", get_fibonacci, name='get_fibonacci'),
 ]

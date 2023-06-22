@@ -6,6 +6,7 @@ from rest_framework.response import Response
 from rest_framework.viewsets import ModelViewSet
 from api.coronavstech.companies.models import Company
 from api.coronavstech.companies.serializers import CompanySerializer
+from fibonacci.dynamic import fibonacci_dynamic
 
 
 class CompanyViewSet(ModelViewSet):
@@ -30,3 +31,21 @@ def send_company_email(request: Request) -> Response:
     return Response(
         {"status": "success", "info": "email sent successfully"}, status=200
     )
+
+
+@api_view(http_method_names=["GET"])
+def get_fibonacci(request: Request) -> Response:
+    try:
+        n = int(request.GET.get('n', ''))
+    except (TypeError, ValueError):
+        return Response(
+            {"error": "n must be an integer"}, status=400
+        )
+
+    if n < 0:
+        return Response(
+            {"error": "n must be non-negative"}, status=400
+        )
+
+    result = fibonacci_dynamic(n)
+    return Response({"fibonacci": result}, status=200)
