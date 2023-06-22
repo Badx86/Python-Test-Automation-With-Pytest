@@ -2,6 +2,11 @@ from datetime import datetime, timedelta
 from typing import Callable
 from rest_framework.test import APIClient
 import pytest
+import os
+from django.conf import settings
+
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'api.coronavstech.coronavstech.settings')
+settings.configure()
 
 
 @pytest.fixture
