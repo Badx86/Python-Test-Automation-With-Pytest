@@ -29,12 +29,8 @@ jobs:
 
       - name: Set environment variable
         run: |
-          echo "export DJANGO_SETTINGS_MODULE=api.coronavstech.coronavstech.settings" >> $GITHUB_ENV
+          export DJANGO_SETTINGS_MODULE=api.coronavstech.coronavstech.settings
 
-      - name: Run manage.py shell
-        run: |
-          pipenv run python manage.py shell
-
-      - name: Test with pytest
+      - name: Run pytest
         run: |
           pipenv run pytest tests/ -s -v --durations=0 --cov=.
