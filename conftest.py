@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 from typing import Callable
-
+from rest_framework.test import APIClient
 import pytest
 
 
@@ -33,3 +33,8 @@ def track_performance(method: Callable, runtime_limit=timedelta(seconds=2)):
         return result
 
     return run_function_and_validate_runtime
+
+
+@pytest.fixture
+def api_client():
+    return APIClient()
