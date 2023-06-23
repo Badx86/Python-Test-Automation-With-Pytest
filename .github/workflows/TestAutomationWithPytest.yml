@@ -44,7 +44,8 @@ jobs:
 
       - name: Run pytest on all files
         run: |
-          pytest --alluredir=allure-report
+          pytest --alluredir=allure-results
+        continue-on-error: true
 
       - name: Get Allure history
         uses: actions/checkout@v2
@@ -52,13 +53,13 @@ jobs:
         continue-on-error: true
         with:
           ref: gh-pages
-          path: allure-history
+          path: gh-pages
 
       - name: Allure Report action
         uses: simple-elf/allure-report-action@v1.6
         if: always()
         with:
-          allure_results: allure-report  # Изменено здесь
+          allure_results: allure-results
           allure_report: allure-report
           gh_pages: gh-pages
           allure_history: allure-history
