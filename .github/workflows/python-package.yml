@@ -27,8 +27,9 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install flake8 pytest
+          pip install flake8 pytest pipenv  # добавляем pipenv здесь
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          if [ -f Pipfile ]; then pipenv install; fi  # добавляем эту строку, если используется Pipfile
 
       - name: Lint with flake8
         run: |
@@ -45,7 +46,7 @@ jobs:
       - name: Set environment variable
         run: |
           echo "DJANGO_SETTINGS_MODULE=api.coronavstech.coronavstech.settings" >> $GITHUB_ENV
-          echo "PYTHONPATH=%PYTHONPATH%;C:\Users\мвидео\PycharmProjects\UDEMY-PythonTestAutomationWithPytest" >> $GITHUB_ENV
+          echo "PYTHONPATH=$PYTHONPATH:/home/runner/work/PycharmProjects/UDEMY-PythonTestAutomationWithPytest" >> $GITHUB_ENV
 
       - name: Run pytest on changed files
         if: steps.changed-py-files.outputs.any_changed == 'true'
