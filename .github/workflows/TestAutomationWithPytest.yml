@@ -53,3 +53,15 @@ jobs:
         run: |
           pipenv run pytest -s -v ${{ steps.changed-py-files.outputs.all_changed_files }}
 
+      - name: Allure Report with history
+        uses: simple-elf/allure-report-action@v1.6
+        with:
+          allure_results: allure-results
+          allure_report: allure-report
+          gh_pages: gh-pages
+          allure_history: allure-history
+          keep_reports: 20
+          github_run_num: ${{ github.run_number }}
+          github_run_id: ${{ github.run_id }}
+          github_repo: ${{ github.repository }}
+          github_repo_owner: ${{ github.repository_owner }}
