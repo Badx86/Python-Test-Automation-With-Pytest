@@ -11,6 +11,7 @@ black = "*"
 pytest-django = "*"
 django = "*"
 pytest-xdist = "*"
+allure-pytest = "*"
 
 [dev-packages]
 
