@@ -28,29 +28,21 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install flake8 pytest pipenv  # добавляем pipenv здесь
+          pip install flake8 pytest pipenv
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          if [ -f Pipfile ]; then pipenv install; fi  # добавляем эту строку, если используется Pipfile
+          if [ -f Pipfile ]; then pipenv install; fi
 
       - name: Lint with flake8
         run: |
           flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
           flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
 
-      - name: Get Pytest changed files
-        id: changed-py-files
-        uses: tj-actions/changed-files@v23
-        with:
-          files: |
-            **/*.py
-
       - name: Set environment variable
         run: |
           echo "DJANGO_SETTINGS_MODULE=api.coronavstech.coronavstech.settings" >> $GITHUB_ENV
           echo "PYTHONPATH=$PYTHONPATH:/home/runner/work/PycharmProjects/UDEMY-PythonTestAutomationWithPytest" >> $GITHUB_ENV
 
-      - name: Run pytest on changed files
-        if: steps.changed-py-files.outputs.any_changed == 'true'
+      - name: Run pytest on all files
         run: |
           pytest --alluredir=allure-results --ignore=oldTests
 
@@ -83,4 +75,3 @@ jobs:
           PERSONAL_TOKEN: ${{ secrets.MY_TOKEN }}
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: allure-report
-
