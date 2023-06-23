@@ -1,6 +1,6 @@
 # PythonTestAutomationWithPytest
 [![Python package](https://github.com/Badx86/UDEMY-PythonTestAutomationWithPytest/actions/workflows/TestAutomationWithPytest.yml/badge.svg)](https://github.com/Badx86/UDEMY-PythonTestAutomationWithPytest/actions/workflows/TestAutomationWithPytest.yml)
-[![Allure-report](https://img.shields.io/badge/Allure%20Report-deployed-green)](https://github.com/Badx86/UDEMY-PythonTestAutomationWithPytest)
+
 
 ## How to work with this repository:
 
