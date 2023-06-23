@@ -44,7 +44,7 @@ jobs:
 
       - name: Run pytest on all files
         run: |
-          pytest --alluredir=allure-results --ignore=oldTests
+          pytest --alluredir=allure-report
 
       - name: Get Allure history
         uses: actions/checkout@v2
