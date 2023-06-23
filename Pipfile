@@ -12,6 +12,7 @@ pytest-django = "*"
 django = "*"
 pytest-xdist = "*"
 allure-pytest = "*"
+pytest-sugar = "*"
 
 [dev-packages]
 
