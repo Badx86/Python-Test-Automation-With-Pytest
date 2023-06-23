@@ -1,3 +1,8 @@
 [ {
-  "data" : { }
+  "buildOrder" : 19,
+  "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 631
+  }
 } ]

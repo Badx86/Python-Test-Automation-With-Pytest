@@ -1,0 +1,1 @@
+WARNING  CORONA_LOGS:test_api.py:101 I am logging CoronaVirus Exception

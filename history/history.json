@@ -1,1 +1,904 @@
-{ }
+{
+  "5e4d4d07666fb03a972bf9d71be2cd00" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "53710ac58cc7d91d",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/53710ac58cc7d91d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856379,
+        "stop" : 1687560856379,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fd3a5f68f275f249472f673c3184f60d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "26c32b1133af3082",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/26c32b1133af3082",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856390,
+        "stop" : 1687560856390,
+        "duration" : 0
+      }
+    } ]
+  },
+  "92d7ebc5e3679ef210f9038341517c32" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "88824911b6a0ff5b",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/88824911b6a0ff5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856431,
+        "stop" : 1687560856432,
+        "duration" : 1
+      }
+    } ]
+  },
+  "39b16718f062a2732a080c7eb35facb3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b4b385f2ae36374f",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/b4b385f2ae36374f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856329,
+        "stop" : 1687560856329,
+        "duration" : 0
+      }
+    } ]
+  },
+  "31327db1f89c08b0d663c62f449afd12" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51f748221451b286",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/51f748221451b286",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856409,
+        "stop" : 1687560856409,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f6149206bebd16117d0c1f03ea37ab0c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ca1e81047ff3f1cc",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/ca1e81047ff3f1cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856415,
+        "stop" : 1687560856415,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5f2f9642b9451abf0d9057ae8b65aafa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f96e31c2123dc114",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/f96e31c2123dc114",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856463,
+        "stop" : 1687560856465,
+        "duration" : 2
+      }
+    } ]
+  },
+  "6f17046a162fa78eea061d021854178f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9698571abc2ad08",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/9698571abc2ad08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856312,
+        "stop" : 1687560856313,
+        "duration" : 1
+      }
+    } ]
+  },
+  "95013754517a30a68d4ad68487d8156d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "97f2a808257f70d1",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/97f2a808257f70d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856469,
+        "stop" : 1687560856470,
+        "duration" : 1
+      }
+    } ]
+  },
+  "c4aaaa7100feca78b6693f38784ff947" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c0d5f7d5d598bf59",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/c0d5f7d5d598bf59",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856298,
+        "stop" : 1687560856300,
+        "duration" : 2
+      }
+    } ]
+  },
+  "0a7a39e66258092e6ad95c0efd605310" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4381a5087cfc414",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/c4381a5087cfc414",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856368,
+        "stop" : 1687560856368,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bfa316a15d1a72f048966fb12ab2acc8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2bbfa4f92b6637ff",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/2bbfa4f92b6637ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856305,
+        "stop" : 1687560856308,
+        "duration" : 3
+      }
+    } ]
+  },
+  "c60171542e158f7579b49f003768e9ee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8ceac7eee8c7faca",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/8ceac7eee8c7faca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856335,
+        "stop" : 1687560856335,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4af101b37aa58cc41883ed7c72ccb74f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dc625677b5eeb925",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/dc625677b5eeb925",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856346,
+        "stop" : 1687560856346,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f0545c6dacc1d629d311ab91ec632ffb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "706c01ce2768ea7e",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/706c01ce2768ea7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856162,
+        "stop" : 1687560856165,
+        "duration" : 3
+      }
+    } ]
+  },
+  "e0be137aa1a802a0fb40276d6990cc83" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b31ac3ac03099d62",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/b31ac3ac03099d62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856396,
+        "stop" : 1687560856396,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2609336270df81385f1e329d4c94ca1e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9427f7af01f642b",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/b9427f7af01f642b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856352,
+        "stop" : 1687560856352,
+        "duration" : 0
+      }
+    } ]
+  },
+  "17afc20865ca01038013a303a301f66a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "259088c3bbb0f6d9",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/259088c3bbb0f6d9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1687560856255,
+        "stop" : 1687560856255,
+        "duration" : 0
+      }
+    } ]
+  },
+  "144c713b4c69c974b5d7154a7a2e4053" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b453b6a7deb4fe2",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/5b453b6a7deb4fe2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856450,
+        "stop" : 1687560856451,
+        "duration" : 1
+      }
+    } ]
+  },
+  "8df16e6815a70936b73304434607438c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1c7ecda80076666",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/c1c7ecda80076666",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856340,
+        "stop" : 1687560856341,
+        "duration" : 1
+      }
+    } ]
+  },
+  "618523f3f0ee518bec09459d93f05e3b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "47924f96dc46b0a4",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/47924f96dc46b0a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856425,
+        "stop" : 1687560856426,
+        "duration" : 1
+      }
+    } ]
+  },
+  "a7969caa18e0fa8c4f929bbc5d9bdbba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c49388fcb812c0f",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/4c49388fcb812c0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856318,
+        "stop" : 1687560856319,
+        "duration" : 1
+      }
+    } ]
+  },
+  "5979f24388c94f78362bc56a2e0aee58" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "809ec0b63831eb1d",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/809ec0b63831eb1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856374,
+        "stop" : 1687560856374,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c61b9f912ab2b48aeaa31c9e3a4f275c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dcc4f6d9bf2e9e1e",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/dcc4f6d9bf2e9e1e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856444,
+        "stop" : 1687560856445,
+        "duration" : 1
+      }
+    } ]
+  },
+  "e054912b56e80e829fcd93f6538faaac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae598d6cc7e6debb",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/ae598d6cc7e6debb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856401,
+        "stop" : 1687560856404,
+        "duration" : 3
+      }
+    } ]
+  },
+  "0132a9867b2f6ac79ebc0520c21b6126" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bbe1a31038ff57be",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/bbe1a31038ff57be",
+      "status" : "skipped",
+      "statusDetails" : "XFAIL\n\nAssertionError: assert 1 == 2",
+      "time" : {
+        "start" : 1687560856189,
+        "stop" : 1687560856189,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7ca558c68945c8655e7cefa5f6c95eab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "38a796301236b5c0",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/38a796301236b5c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856135,
+        "stop" : 1687560856138,
+        "duration" : 3
+      }
+    } ]
+  },
+  "d61dd9a6eacf11cac783b7e2d306a6aa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "acb55b00e929363",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/acb55b00e929363",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856279,
+        "stop" : 1687560856282,
+        "duration" : 3
+      }
+    } ]
+  },
+  "2c546351f0ef23fbbbfd02fc66f7a384" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cc67e7bc90b7ea1b",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/cc67e7bc90b7ea1b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856171,
+        "stop" : 1687560856174,
+        "duration" : 3
+      }
+    } ]
+  },
+  "eb889683edb07ca6dc6f6ae4c48dd3a7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee3ac6c1c3c2130a",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/ee3ac6c1c3c2130a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856180,
+        "stop" : 1687560856183,
+        "duration" : 3
+      }
+    } ]
+  },
+  "79fe283a43e9fed36e2861efb3fbc720" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ffc413391c3e6f9",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/2ffc413391c3e6f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856272,
+        "stop" : 1687560856272,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6830313df55f4faca45457678453c627" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb7917be36f852f7",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/cb7917be36f852f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856363,
+        "stop" : 1687560856363,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b6c26540d619db175948f165d3b22630" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "10adec8a02ed3cbf",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/10adec8a02ed3cbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856122,
+        "stop" : 1687560856129,
+        "duration" : 7
+      }
+    } ]
+  },
+  "5392c26c2a5bd8636983a2a57ff64b20" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8b3912cfd6b52349",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/8b3912cfd6b52349",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856324,
+        "stop" : 1687560856324,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b8746d154e8777496af77993772a4bac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3d3e8f0a1a83c591",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/3d3e8f0a1a83c591",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856144,
+        "stop" : 1687560856147,
+        "duration" : 3
+      }
+    } ]
+  },
+  "07567b8226c81c4a6c784d4b39aa4148" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51a2287323438be2",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/51a2287323438be2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856153,
+        "stop" : 1687560856156,
+        "duration" : 3
+      }
+    } ]
+  },
+  "1f6dc75d41648e14f87e993e51619bac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "95068192c6288c41",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/95068192c6288c41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856457,
+        "stop" : 1687560856458,
+        "duration" : 1
+      }
+    } ]
+  },
+  "5f99a8fc0c473ce304e6822ea32e2c6d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "12c7c241af2f151",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/12c7c241af2f151",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856259,
+        "stop" : 1687560856260,
+        "duration" : 1
+      }
+    } ]
+  },
+  "3f9c1d17fa5794442d00950d03f21f8e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "25537624408171b9",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/25537624408171b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856266,
+        "stop" : 1687560856266,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f6e0fdd789cbd0dc91ca62285b7a32f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af3c9cb91cf9948e",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/af3c9cb91cf9948e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856289,
+        "stop" : 1687560856292,
+        "duration" : 3
+      }
+    } ]
+  },
+  "a3c8886c7eed911031573b3ba90f905e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "47888f2469ce49be",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/47888f2469ce49be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856420,
+        "stop" : 1687560856420,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6404bbc78182b25d43d4ef8201777028" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd8bcd1c9e41b1d9",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/fd8bcd1c9e41b1d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856474,
+        "stop" : 1687560856753,
+        "duration" : 279
+      }
+    } ]
+  },
+  "c04f6fd8f54d14785ac032271a72702e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ea2059dc612659a7",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/ea2059dc612659a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856437,
+        "stop" : 1687560856439,
+        "duration" : 2
+      }
+    } ]
+  },
+  "84982700b6a6ff444a9096a137ad4a99" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aa244eb21e9e48b4",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/aa244eb21e9e48b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856385,
+        "stop" : 1687560856385,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e4421b0d47d77fd066cd70512bb8f106" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9f0d1d70844ec066",
+      "reportUrl" : "https://Badx86.github.io/UDEMY-PythonTestAutomationWithPytest/19//#testresult/9f0d1d70844ec066",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687560856357,
+        "stop" : 1687560856357,
+        "duration" : 0
+      }
+    } ]
+  }
+}
