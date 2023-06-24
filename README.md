@@ -1,4 +1,5 @@
 # PythonTestAutomationWithPytest
+  
 [![Python package](https://github.com/Badx86/UDEMY-PythonTestAutomationWithPytest/actions/workflows/TestAutomationWithPytest.yml/badge.svg)](https://github.com/Badx86/UDEMY-PythonTestAutomationWithPytest/actions/workflows/TestAutomationWithPytest.yml)
 
 [![Allure-report](https://img.shields.io/badge/Allure%20Report-deployed-green)](https://badx86.github.io/UDEMY-PythonTestAutomationWithPytest/)
@@ -22,3 +23,8 @@
 - After, execute **pytest -s -v** to run tests
 
 - If you wish to run the project on a local server, run the command **pithon manage.py runserver**. Django should be installed for this
+
+
+
+[UdemyCourseLink](https://www.udemy.com/course/pytest-course/)
+[Сertificate](https://drive.google.com/file/d/1ytop4HcqFgXz6wKZdwvGkiDZAzQlQigD/view?usp=sharing)
