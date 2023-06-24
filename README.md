@@ -3,6 +3,8 @@
 
 [![Allure-report](https://img.shields.io/badge/Allure%20Report-deployed-green)](https://badx86.github.io/UDEMY-PythonTestAutomationWithPytest/)
 
+[![dependency - pytest](https://img.shields.io/badge/dependency-pytest-blue?logo=pytest&logoColor=white)](https://pypi.org/project/pytest)
+
 ## How to work with this repository:
 
 - Clone repository to your machine
