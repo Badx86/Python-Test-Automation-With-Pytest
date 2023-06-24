@@ -1,5 +1,5 @@
 {
-  "5254b0e71b258a70e1629e651b7c37a8" : {
+  "c352962a451070f62b73a249f4e4ca3c" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -9,32 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "989603eba9eca81f",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/989603eba9eca81f",
+      "uid" : "68defc70d5d680ec",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/68defc70d5d680ec",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723738,
-        "stop" : 1687566723738,
-        "duration" : 0
-      }
-    } ]
-  },
-  "793e34e89084c9295449d02ddd2dd9b8" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "179cfd9fb6cfd2a6",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/179cfd9fb6cfd2a6",
-      "status" : "passed",
-      "time" : {
-        "start" : 1687566723817,
-        "stop" : 1687566723817,
+        "start" : 1687569208552,
+        "stop" : 1687569208552,
         "duration" : 0
       }
     } ]
@@ -49,17 +29,17 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e688b86580411d0a",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/e688b86580411d0a",
+      "uid" : "aad820f34f2cd874",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/aad820f34f2cd874",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723835,
-        "stop" : 1687566723838,
-        "duration" : 3
+        "start" : 1687569208661,
+        "stop" : 1687569208663,
+        "duration" : 2
       }
     } ]
   },
-  "cfcfc9f87871b91b1533586ceecfd03e" : {
+  "c536715762f2c5eccaf8f9a09b1652c3" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -69,17 +49,17 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ee89ab538a763e99",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/ee89ab538a763e99",
+      "uid" : "dfd0ebd410f0096e",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/dfd0ebd410f0096e",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723706,
-        "stop" : 1687566723707,
-        "duration" : 1
+        "start" : 1687569208655,
+        "stop" : 1687569208655,
+        "duration" : 0
       }
     } ]
   },
-  "dc9a79d0a7e891ba63ee42957d4ad358" : {
+  "d78920b5f818bda36ae7618ca0c3ed2b" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -89,17 +69,37 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "df4b6d9621bf6981",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/df4b6d9621bf6981",
+      "uid" : "63cd5705ba6435e2",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/63cd5705ba6435e2",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723786,
-        "stop" : 1687566723790,
+        "start" : 1687569208533,
+        "stop" : 1687569208533,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ebd9187b069acf2f4f7a19edd8189833" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "63efa3abf70623a0",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/63efa3abf70623a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687569208625,
+        "stop" : 1687569208629,
         "duration" : 4
       }
     } ]
   },
-  "a72685c1d1faf529a15c3ac93d6d0997" : {
+  "337fc8929aca81e1f091a5abb520c1d6" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -109,53 +109,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b2586045c9317c19",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/b2586045c9317c19",
+      "uid" : "5e93ee39a2cdfd39",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/5e93ee39a2cdfd39",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723676,
-        "stop" : 1687566723677,
+        "start" : 1687569208572,
+        "stop" : 1687569208573,
         "duration" : 1
-      }
-    } ]
-  },
-  "d31f7688f39d4a400ae6b3c30de82deb" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "628427317ad19e2d",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/628427317ad19e2d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1687566723667,
-        "stop" : 1687566723667,
-        "duration" : 0
-      }
-    } ]
-  },
-  "8b5a335412e35f339c0f7f23c93a729e" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "b30954d357a09b00",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/b30954d357a09b00",
-      "status" : "passed",
-      "time" : {
-        "start" : 1687566723716,
-        "stop" : 1687566723716,
-        "duration" : 0
       }
     } ]
   },
@@ -169,13 +129,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "528d1624a1597002",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/528d1624a1597002",
+      "uid" : "7df4320970c7ac00",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/7df4320970c7ac00",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723627,
-        "stop" : 1687566723630,
-        "duration" : 3
+        "start" : 1687569208519,
+        "stop" : 1687569208520,
+        "duration" : 1
       }
     } ]
   },
@@ -189,17 +149,17 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1ebed1d454d8099c",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/1ebed1d454d8099c",
+      "uid" : "f3ca8cdede380bb",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/f3ca8cdede380bb",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723890,
-        "stop" : 1687566723892,
-        "duration" : 2
+        "start" : 1687569208701,
+        "stop" : 1687569208702,
+        "duration" : 1
       }
     } ]
   },
-  "932c8b77048c932e3614bf063bc8f3cd" : {
+  "953bd6fdd19415e98a9e098c08a61d75" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -209,17 +169,17 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "40d3c667fa4a6cc0",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/40d3c667fa4a6cc0",
+      "uid" : "29bdba3a4348ee04",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/29bdba3a4348ee04",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723758,
-        "stop" : 1687566723758,
+        "start" : 1687569208579,
+        "stop" : 1687569208579,
         "duration" : 0
       }
     } ]
   },
-  "1d9d327ee1d5aeb5084d7f7ba6b10e44" : {
+  "1003e19d4f3f18cfbbe48652d06dae44" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -229,12 +189,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c5fc2fa6baed35a0",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/c5fc2fa6baed35a0",
+      "uid" : "4f145e07bfa760e4",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/4f145e07bfa760e4",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723748,
-        "stop" : 1687566723748,
+        "start" : 1687569208648,
+        "stop" : 1687569208648,
+        "duration" : 0
+      }
+    } ]
+  },
+  "52c4182631e523f075a6f09ba2e5b245" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "79c094af2a55d082",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/79c094af2a55d082",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687569208546,
+        "stop" : 1687569208546,
         "duration" : 0
       }
     } ]
@@ -249,12 +229,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "af651b7700ce94cd",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/af651b7700ce94cd",
+      "uid" : "523851fc5a97afc4",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/523851fc5a97afc4",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723900,
-        "stop" : 1687566723901,
+        "start" : 1687569208708,
+        "stop" : 1687569208709,
         "duration" : 1
       }
     } ]
@@ -269,17 +249,17 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7d9ef40761d221f0",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/7d9ef40761d221f0",
+      "uid" : "f3755b7892d7b3bb",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/f3755b7892d7b3bb",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723604,
-        "stop" : 1687566723607,
+        "start" : 1687569208502,
+        "stop" : 1687569208505,
         "duration" : 3
       }
     } ]
   },
-  "306870ab7b360d26cd1d75b911db4c82" : {
+  "e705f491c6910415b2d2869c98c2b250" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -289,17 +269,17 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7fa9fe74382148f0",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/7fa9fe74382148f0",
+      "uid" : "4fb491b9db9ca11d",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/4fb491b9db9ca11d",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723686,
-        "stop" : 1687566723686,
+        "start" : 1687569208592,
+        "stop" : 1687569208592,
         "duration" : 0
       }
     } ]
   },
-  "b9a48f223b4322cebdb4cd48036f9bfa" : {
+  "001fa20568982ea5d1caf0d7aa7fc44c" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -309,12 +289,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d30c1f6b0eca739b",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/d30c1f6b0eca739b",
+      "uid" : "50307a63b8e61060",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/50307a63b8e61060",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723697,
-        "stop" : 1687566723697,
+        "start" : 1687569208635,
+        "stop" : 1687569208635,
         "duration" : 0
       }
     } ]
@@ -329,17 +309,17 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6add6f105c8721f7",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/6add6f105c8721f7",
+      "uid" : "afab517d60d3246d",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/afab517d60d3246d",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723617,
-        "stop" : 1687566723620,
+        "start" : 1687569208511,
+        "stop" : 1687569208514,
         "duration" : 3
       }
     } ]
   },
-  "cd54d0b3bd3d1ecbc323f85a96919834" : {
+  "4b758fd680b0685f1c2844ab3ede1f1e" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -349,17 +329,17 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "be65a114b20f553e",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/be65a114b20f553e",
+      "uid" : "345a2f33e957d8d3",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/345a2f33e957d8d3",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723648,
-        "stop" : 1687566723648,
+        "start" : 1687569208599,
+        "stop" : 1687569208599,
         "duration" : 0
       }
     } ]
   },
-  "3b42dbaadcedcfd24575d69137b2bdb3" : {
+  "cf540e0ecf02491d0fbe3e536d2c76c2" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -369,12 +349,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8154ba65d2937ad9",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/8154ba65d2937ad9",
+      "uid" : "e2185d338ea9f026",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/e2185d338ea9f026",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723639,
-        "stop" : 1687566723639,
+        "start" : 1687569208566,
+        "stop" : 1687569208566,
         "duration" : 0
       }
     } ]
@@ -389,13 +369,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a72424af4232d4e5",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/a72424af4232d4e5",
+      "uid" : "20b37d28cdc39ad6",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/20b37d28cdc39ad6",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723395,
-        "stop" : 1687566723400,
-        "duration" : 5
+        "start" : 1687569208347,
+        "stop" : 1687569208350,
+        "duration" : 3
+      }
+    } ]
+  },
+  "bfab66ababefcfc0566c7ad48bdfe35e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9d9193b88d7c5dc",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/b9d9193b88d7c5dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687569208558,
+        "stop" : 1687569208559,
+        "duration" : 1
       }
     } ]
   },
@@ -409,13 +409,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6a7842b2c2e8d1e5",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/6a7842b2c2e8d1e5",
+      "uid" : "6c2b608572547f82",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/6c2b608572547f82",
       "status" : "skipped",
       "statusDetails" : "Skipped: unconditional skip",
       "time" : {
-        "start" : 1687566723534,
-        "stop" : 1687566723534,
+        "start" : 1687569208453,
+        "stop" : 1687569208453,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e6cfbdef06224a7145b6bb2da94f8d2e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d29d0c5617a7e80",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/d29d0c5617a7e80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687569208612,
+        "stop" : 1687569208612,
         "duration" : 0
       }
     } ]
@@ -430,17 +450,17 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c56c790b08b03ac3",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/c56c790b08b03ac3",
+      "uid" : "45163558c0c077",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/45163558c0c077",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723867,
-        "stop" : 1687566723870,
-        "duration" : 3
+        "start" : 1687569208684,
+        "stop" : 1687569208686,
+        "duration" : 2
       }
     } ]
   },
-  "dbaeaceed020f4ae234c47f86538b6c2" : {
+  "985d137716875c886f01b9dab7afcc0c" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -450,33 +470,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7f5e24c7f6c590cc",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/7f5e24c7f6c590cc",
+      "uid" : "b2f9d72256f9b1f",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/b2f9d72256f9b1f",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723777,
-        "stop" : 1687566723777,
-        "duration" : 0
-      }
-    } ]
-  },
-  "23c31678abe077d924e4ddd4def669d4" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "faf7f547f89eadfd",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/faf7f547f89eadfd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1687566723729,
-        "stop" : 1687566723729,
-        "duration" : 0
+        "start" : 1687569208641,
+        "stop" : 1687569208642,
+        "duration" : 1
       }
     } ]
   },
@@ -490,13 +490,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "80ae76b021e3dd08",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/80ae76b021e3dd08",
+      "uid" : "135c7abe7f47a7b2",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/135c7abe7f47a7b2",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723857,
-        "stop" : 1687566723859,
-        "duration" : 2
+        "start" : 1687569208677,
+        "stop" : 1687569208678,
+        "duration" : 1
       }
     } ]
   },
@@ -510,14 +510,14 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "351c10342536c4dc",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/351c10342536c4dc",
+      "uid" : "d529cd74d137fa83",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/d529cd74d137fa83",
       "status" : "skipped",
       "statusDetails" : "XFAIL\n\nAssertionError: assert 1 == 2",
       "time" : {
-        "start" : 1687566723442,
-        "stop" : 1687566723443,
-        "duration" : 1
+        "start" : 1687569208376,
+        "stop" : 1687569208376,
+        "duration" : 0
       }
     } ]
   },
@@ -531,13 +531,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f6190dcca9e25672",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/f6190dcca9e25672",
+      "uid" : "396461799e8cbb00",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/396461799e8cbb00",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723348,
-        "stop" : 1687566723352,
-        "duration" : 4
+        "start" : 1687569208317,
+        "stop" : 1687569208320,
+        "duration" : 3
       }
     } ]
   },
@@ -551,13 +551,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e0fe6c493124f0b3",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/e0fe6c493124f0b3",
+      "uid" : "5b9017e1c5693de",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/5b9017e1c5693de",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723410,
-        "stop" : 1687566723417,
-        "duration" : 7
+        "start" : 1687569208356,
+        "stop" : 1687569208360,
+        "duration" : 4
       }
     } ]
   },
@@ -571,17 +571,17 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b333934a28111313",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/b333934a28111313",
+      "uid" : "8686b23f418e1359",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/8686b23f418e1359",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723573,
-        "stop" : 1687566723577,
-        "duration" : 4
+        "start" : 1687569208481,
+        "stop" : 1687569208484,
+        "duration" : 3
       }
     } ]
   },
-  "36287fad3799f6ae1d0157417d3fa468" : {
+  "691190d0de6887f4d2cf65c9b17e7968" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -591,72 +591,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "63f1dcc54b791893",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/63f1dcc54b791893",
+      "uid" : "ac21e2ed6cc021cd",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/ac21e2ed6cc021cd",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723799,
-        "stop" : 1687566723799,
-        "duration" : 0
-      }
-    } ]
-  },
-  "79fe283a43e9fed36e2861efb3fbc720" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "b4247520a2c6b350",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/b4247520a2c6b350",
-      "status" : "passed",
-      "time" : {
-        "start" : 1687566723560,
-        "stop" : 1687566723561,
-        "duration" : 1
-      }
-    } ]
-  },
-  "eb889683edb07ca6dc6f6ae4c48dd3a7" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "ec2f0daed6804234",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/ec2f0daed6804234",
-      "status" : "passed",
-      "time" : {
-        "start" : 1687566723427,
-        "stop" : 1687566723431,
-        "duration" : 4
-      }
-    } ]
-  },
-  "e5b37fff069697e2f1b57938c03d8cd4" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "c97e8af25fa5cf1b",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/c97e8af25fa5cf1b",
-      "status" : "passed",
-      "time" : {
-        "start" : 1687566723808,
-        "stop" : 1687566723809,
+        "start" : 1687569208605,
+        "stop" : 1687569208606,
         "duration" : 1
       }
     } ]
@@ -671,13 +611,53 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "26401a882fbce205",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/26401a882fbce205",
+      "uid" : "7fdcd0eed4823ff4",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/7fdcd0eed4823ff4",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723326,
-        "stop" : 1687566723337,
-        "duration" : 11
+        "start" : 1687569208301,
+        "stop" : 1687569208309,
+        "duration" : 8
+      }
+    } ]
+  },
+  "eb889683edb07ca6dc6f6ae4c48dd3a7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe8f835926a0ed18",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/fe8f835926a0ed18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687569208366,
+        "stop" : 1687569208369,
+        "duration" : 3
+      }
+    } ]
+  },
+  "79fe283a43e9fed36e2861efb3fbc720" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e704351abe4ef7d7",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/e704351abe4ef7d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687569208472,
+        "stop" : 1687569208473,
+        "duration" : 1
       }
     } ]
   },
@@ -691,17 +671,17 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e5013571d1e0f5ca",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/e5013571d1e0f5ca",
+      "uid" : "bf5471ef663a28c2",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/bf5471ef663a28c2",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723364,
-        "stop" : 1687566723367,
+        "start" : 1687569208327,
+        "stop" : 1687569208330,
         "duration" : 3
       }
     } ]
   },
-  "098eabe8a57465edab4b9d7622473949" : {
+  "788c3fe653a09bf643b168e2d7140357" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -711,12 +691,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9abad325f4b65817",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/9abad325f4b65817",
+      "uid" : "a07177005c636497",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/a07177005c636497",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723767,
-        "stop" : 1687566723767,
+        "start" : 1687569208618,
+        "stop" : 1687569208619,
+        "duration" : 1
+      }
+    } ]
+  },
+  "9626ad230213dab5c4eb278acf50b3f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ffe09ac29200a238",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/ffe09ac29200a238",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687569208526,
+        "stop" : 1687569208526,
         "duration" : 0
       }
     } ]
@@ -731,33 +731,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "899293ff52ce37d6",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/899293ff52ce37d6",
+      "uid" : "8314af78d8f68689",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/8314af78d8f68689",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723540,
-        "stop" : 1687566723541,
-        "duration" : 1
-      }
-    } ]
-  },
-  "1f6dc75d41648e14f87e993e51619bac" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "1aa0ba94e12c3afe",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/1aa0ba94e12c3afe",
-      "status" : "passed",
-      "time" : {
-        "start" : 1687566723878,
-        "stop" : 1687566723881,
-        "duration" : 3
+        "start" : 1687569208458,
+        "stop" : 1687569208458,
+        "duration" : 0
       }
     } ]
   },
@@ -771,17 +751,17 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c45ccc0dc9440a44",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/c45ccc0dc9440a44",
+      "uid" : "46cf16811836e4c6",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/46cf16811836e4c6",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723378,
-        "stop" : 1687566723383,
-        "duration" : 5
+        "start" : 1687569208336,
+        "stop" : 1687569208339,
+        "duration" : 3
       }
     } ]
   },
-  "cbc52a5d075fd99764c7b8f69346eda5" : {
+  "1f6dc75d41648e14f87e993e51619bac" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -791,12 +771,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e2ab1c93f4f9e606",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/e2ab1c93f4f9e606",
+      "uid" : "4b8365f524ce17c0",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/4b8365f524ce17c0",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723826,
-        "stop" : 1687566723826,
+        "start" : 1687569208692,
+        "stop" : 1687569208694,
+        "duration" : 2
+      }
+    } ]
+  },
+  "425a7de4fb17135006c6ce308965190f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "789170dc7ca55d49",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/789170dc7ca55d49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687569208586,
+        "stop" : 1687569208586,
         "duration" : 0
       }
     } ]
@@ -811,13 +811,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5b27752a137a11f0",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/5b27752a137a11f0",
+      "uid" : "e9556ba59ef7e7bc",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/e9556ba59ef7e7bc",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723550,
-        "stop" : 1687566723551,
-        "duration" : 1
+        "start" : 1687569208465,
+        "stop" : 1687569208465,
+        "duration" : 0
       }
     } ]
   },
@@ -831,13 +831,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7ca1ea6df947433a",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/7ca1ea6df947433a",
+      "uid" : "e762f64692047a05",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/e762f64692047a05",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723590,
-        "stop" : 1687566723593,
+        "start" : 1687569208492,
+        "stop" : 1687569208495,
         "duration" : 3
+      }
+    } ]
+  },
+  "ba9d2e09675de614e3b224c1ce45c419" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "805c141da39f7640",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/805c141da39f7640",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687569208539,
+        "stop" : 1687569208539,
+        "duration" : 0
       }
     } ]
   },
@@ -851,33 +871,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "eb33db2d73322440",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/eb33db2d73322440",
+      "uid" : "78f19635bc32136f",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/78f19635bc32136f",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723908,
-        "stop" : 1687566724300,
-        "duration" : 392
-      }
-    } ]
-  },
-  "947361fcd53cfb7f6e04011d014d05f7" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "7e5c7d03b654d5cc",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/7e5c7d03b654d5cc",
-      "status" : "passed",
-      "time" : {
-        "start" : 1687566723657,
-        "stop" : 1687566723658,
-        "duration" : 1
+        "start" : 1687569208714,
+        "stop" : 1687569209078,
+        "duration" : 364
       }
     } ]
   },
@@ -891,12 +891,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b3f815b7ee76e650",
-      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/21//#testresult/b3f815b7ee76e650",
+      "uid" : "b630c2d3af8dc468",
+      "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytestUdemyCourse/22//#testresult/b630c2d3af8dc468",
       "status" : "passed",
       "time" : {
-        "start" : 1687566723847,
-        "stop" : 1687566723849,
+        "start" : 1687569208669,
+        "stop" : 1687569208671,
         "duration" : 2
       }
     } ]
