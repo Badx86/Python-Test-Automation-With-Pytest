@@ -2,7 +2,7 @@
   
 [![Python package](https://github.com/Badx86/UDEMY-PythonTestAutomationWithPytest/actions/workflows/TestAutomationWithPytest.yml/badge.svg)](https://github.com/Badx86/UDEMY-PythonTestAutomationWithPytest/actions/workflows/TestAutomationWithPytest.yml)
 
-[![Allure-report](https://img.shields.io/badge/Allure%20Report-deployed-green)](https://badx86.github.io/UDEMY-PythonTestAutomationWithPytest/)
+[![Allure-report](https://img.shields.io/badge/Allure%20Report-deployed-green)](https://badx86.github.io/PythonTestAutomationWithPytest/)
 
 [![dependency - pytest](https://img.shields.io/badge/dependency-pytest-blue?logo=pytest&logoColor=white)](https://pypi.org/project/pytest)
 
