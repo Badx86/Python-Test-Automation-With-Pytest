@@ -1,450 +1,450 @@
 [ {
-  "uid" : "edeeb2068c039f3",
-  "name" : "test_fibonacci[2-1-fibonacci_dynamic_v2]",
-  "time" : {
-    "start" : 1687700862756,
-    "stop" : 1687700862756,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c833c3b26428a1cf",
-  "name" : "test_performance",
-  "time" : {
-    "start" : 1687700862853,
-    "stop" : 1687700862853,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a29ad9f8594b2036",
-  "name" : "test_should_be_ok_if_fails",
-  "time" : {
-    "start" : 1687700862466,
-    "stop" : 1687700862467,
-    "duration" : 1
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "b4f8264e50bcfb1f",
-  "name" : "test_fibonacci_endpoint[1-expected1-200]",
-  "time" : {
-    "start" : 1687700862811,
-    "stop" : 1687700862813,
-    "duration" : 2
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c0cc7193f302356d",
-  "name" : "test_fibonacci[2-1-fibonacci_dynamic]",
-  "time" : {
-    "start" : 1687700862749,
-    "stop" : 1687700862749,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4726f40d17f7f55d",
-  "name" : "test_create_existing_company_should_fail",
-  "time" : {
-    "start" : 1687700862410,
-    "stop" : 1687700862416,
-    "duration" : 6
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "821bc106cd0b30aa",
-  "name" : "test_fibonacci[0-0-fibonacci_naive]",
-  "time" : {
-    "start" : 1687700862638,
-    "stop" : 1687700862638,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2a0c2b51747d7a9c",
-  "name" : "test_should_be_skipped",
-  "time" : {
-    "start" : 1687700862549,
-    "stop" : 1687700862549,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "a1eced4bad8ccfa9",
-  "name" : "test_zero_companies_should_return_empty_list",
-  "time" : {
-    "start" : 1687700862362,
-    "stop" : 1687700862372,
-    "duration" : 10
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "66943628a1c0b710",
+  "uid" : "a48a5492b5114c85",
   "name" : "test_logged_warning_level",
   "time" : {
-    "start" : 1687700862563,
-    "stop" : 1687700862564,
+    "start" : 1687724686314,
+    "stop" : 1687724686315,
     "duration" : 1
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "7f9f59c012d4ad28",
-  "name" : "test_fibonacci[1-1-fibonacci_dynamic]",
-  "time" : {
-    "start" : 1687700862706,
-    "stop" : 1687700862706,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7cd61f3c0f02d06",
-  "name" : "test_fibonacci[2-1-fibonacci_lru_cached]",
-  "time" : {
-    "start" : 1687700862739,
-    "stop" : 1687700862739,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "962409b298139b49",
-  "name" : "test_fibonacci[1-1-fibonacci_naive]",
-  "time" : {
-    "start" : 1687700862680,
-    "stop" : 1687700862680,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c65f6cb7b1c20a50",
-  "name" : "test_one_company_exists_should_succeed",
-  "time" : {
-    "start" : 1687700862382,
-    "stop" : 1687700862386,
-    "duration" : 4
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a0ca8b717595b4a8",
-  "name" : "test_fibonacci[1-1-fibonacci_cached]",
-  "time" : {
-    "start" : 1687700862689,
-    "stop" : 1687700862690,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cfaef14f85ba6039",
-  "name" : "test_send_email_without_arguments_should_send_empty_email",
-  "time" : {
-    "start" : 1687700862619,
-    "stop" : 1687700862622,
-    "duration" : 3
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "aaca8fb31cec43cb",
-  "name" : "test_create_company_with_only_name_all_fields_should_be_default",
-  "time" : {
-    "start" : 1687700862426,
-    "stop" : 1687700862432,
-    "duration" : 6
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c8b8661fd03ea00c",
-  "name" : "test_fibonacci[1-1-fibonacci_lru_cached]",
-  "time" : {
-    "start" : 1687700862698,
-    "stop" : 1687700862698,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a6a5e73be3a7d07e",
-  "name" : "test_raise_covid19_exception_should_pass",
-  "time" : {
-    "start" : 1687700862554,
-    "stop" : 1687700862555,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fe86bad7b75cfbf3",
-  "name" : "test_multiple_companies_exists_should_succeed[Zuckerberg Companies]",
-  "time" : {
-    "start" : 1687700862596,
-    "stop" : 1687700862598,
-    "duration" : 2
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "65b366e2766c6ead",
-  "name" : "test_fibonacci[0-0-fibonacci_lru_cached]",
-  "time" : {
-    "start" : 1687700862655,
-    "stop" : 1687700862656,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b2fa675bb0dc1a9c",
-  "name" : "test_logged_info_level",
-  "time" : {
-    "start" : 1687700862572,
-    "stop" : 1687700862573,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b49d28655400a5cd",
-  "name" : "test_fibonacci_endpoint[2-expected2-200]",
-  "time" : {
-    "start" : 1687700862819,
-    "stop" : 1687700862821,
-    "duration" : 2
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e80991c3e985290f",
-  "name" : "test_fibonacci[20-6765-fibonacci_dynamic]",
-  "time" : {
-    "start" : 1687700862787,
-    "stop" : 1687700862787,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "85e3918bbde621c3",
-  "name" : "test_fibonacci_endpoint[0-expected0-200]",
-  "time" : {
-    "start" : 1687700862801,
-    "stop" : 1687700862803,
-    "duration" : 2
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "dd28ea1b784c96eb",
-  "name" : "test_fibonacci[0-0-fibonacci_dynamic_v2]",
-  "time" : {
-    "start" : 1687700862672,
-    "stop" : 1687700862673,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "edb17c0b5fff9d6f",
-  "name" : "test_create_company_without_arguments_should_fail",
-  "time" : {
-    "start" : 1687700862396,
-    "stop" : 1687700862400,
-    "duration" : 4
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "72a0cf6306c3c50d",
-  "name" : "test_performance_under_load",
-  "time" : {
-    "start" : 1687700862861,
-    "stop" : 1687700863244,
-    "duration" : 383
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5c24d63bfdd81a32",
-  "name" : "test_fibonacci_endpoint[-5-expected5-400]",
-  "time" : {
-    "start" : 1687700862846,
-    "stop" : 1687700862847,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c02681f85dc4f390",
-  "name" : "test_fibonacci[20-6765-fibonacci_lru_cached]",
-  "time" : {
-    "start" : 1687700862780,
-    "stop" : 1687700862781,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4ef3f8201277cc27",
-  "name" : "test_create_company_with_wrong_status_should_fail",
-  "time" : {
-    "start" : 1687700862453,
-    "stop" : 1687700862456,
-    "duration" : 3
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a2ec6f114d1040e4",
-  "name" : "test_fibonacci_endpoint[abc-expected4-400]",
-  "time" : {
-    "start" : 1687700862837,
-    "stop" : 1687700862839,
-    "duration" : 2
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f3a893fb427e9aa5",
-  "name" : "test_fibonacci[0-0-fibonacci_cached]",
-  "time" : {
-    "start" : 1687700862647,
-    "stop" : 1687700862647,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "952805bac3e86326",
-  "name" : "test_fibonacci[2-1-fibonacci_cached]",
-  "time" : {
-    "start" : 1687700862729,
-    "stop" : 1687700862729,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2b711fb08f24e29",
-  "name" : "test_create_company_with_layoffs_status_should_succeed",
-  "time" : {
-    "start" : 1687700862441,
-    "stop" : 1687700862445,
-    "duration" : 4
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fd1e736a6146646f",
-  "name" : "test_fibonacci[20-6765-fibonacci_naive]",
-  "time" : {
-    "start" : 1687700862763,
-    "stop" : 1687700862766,
-    "duration" : 3
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "19fb1a82fdc4a7c4",
+  "uid" : "522fb905cdf649f",
   "name" : "test_fibonacci[2-1-fibonacci_naive]",
   "time" : {
-    "start" : 1687700862720,
-    "stop" : 1687700862721,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8cbe92d7d5e2777e",
-  "name" : "test_fibonacci[20-6765-fibonacci_cached]",
-  "time" : {
-    "start" : 1687700862773,
-    "stop" : 1687700862773,
+    "start" : 1687724686430,
+    "stop" : 1687724686430,
     "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "40a7ab9b2804aeab",
-  "name" : "test_fibonacci[20-6765-fibonacci_dynamic_v2]",
+  "uid" : "a84950345f7c56c3",
+  "name" : "test_fibonacci_endpoint[-5-expected5-400]",
   "time" : {
-    "start" : 1687700862794,
-    "stop" : 1687700862795,
-    "duration" : 1
+    "start" : 1687724686526,
+    "stop" : 1687724686528,
+    "duration" : 2
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "387f300f41945d8f",
-  "name" : "test_send_email_with_get_verb_should_fail",
+  "uid" : "8092be6422d66a66",
+  "name" : "test_fibonacci[0-0-fibonacci_cached]",
   "time" : {
-    "start" : 1687700862628,
-    "stop" : 1687700862629,
-    "duration" : 1
+    "start" : 1687724686376,
+    "stop" : 1687724686376,
+    "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "36b1f4873d205cd7",
-  "name" : "test_multiple_companies_exists_should_succeed[3 T Companies]",
+  "uid" : "9ef5923d49196001",
+  "name" : "test_performance_under_load",
   "time" : {
-    "start" : 1687700862582,
-    "stop" : 1687700862585,
+    "start" : 1687724686538,
+    "stop" : 1687724686847,
+    "duration" : 309
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f6cc89dfc2f910f",
+  "name" : "test_one_company_exists_should_succeed",
+  "time" : {
+    "start" : 1687724686180,
+    "stop" : 1687724686183,
     "duration" : 3
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "9f2a3adce001f5f1",
+  "uid" : "20ca37a356be6266",
+  "name" : "test_create_company_with_wrong_status_should_fail",
+  "time" : {
+    "start" : 1687724686226,
+    "stop" : 1687724686229,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b67cec7bd69ea70f",
+  "name" : "test_create_existing_company_should_fail",
+  "time" : {
+    "start" : 1687724686198,
+    "stop" : 1687724686202,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5d3ad049eb93b47",
+  "name" : "test_fibonacci[20-6765-fibonacci_naive]",
+  "time" : {
+    "start" : 1687724686459,
+    "stop" : 1687724686463,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "848cffe6de1c9119",
+  "name" : "test_fibonacci[1-1-fibonacci_cached]",
+  "time" : {
+    "start" : 1687724686406,
+    "stop" : 1687724686407,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eab4c22eb3319432",
+  "name" : "test_multiple_companies_exists_should_succeed[Zuckerberg Companies]",
+  "time" : {
+    "start" : 1687724686339,
+    "stop" : 1687724686342,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bceb35935b533344",
+  "name" : "test_create_company_without_arguments_should_fail",
+  "time" : {
+    "start" : 1687724686190,
+    "stop" : 1687724686192,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a88772d617a37a0",
+  "name" : "test_performance",
+  "time" : {
+    "start" : 1687724686533,
+    "stop" : 1687724686533,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9140fc5c008890bb",
+  "name" : "test_should_be_skipped",
+  "time" : {
+    "start" : 1687724686304,
+    "stop" : 1687724686304,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3a416c850bc59e52",
+  "name" : "test_fibonacci[1-1-fibonacci_lru_cached]",
+  "time" : {
+    "start" : 1687724686412,
+    "stop" : 1687724686412,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a663cfd8d18d819",
+  "name" : "test_fibonacci[2-1-fibonacci_cached]",
+  "time" : {
+    "start" : 1687724686436,
+    "stop" : 1687724686436,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae624a9d839d5a84",
+  "name" : "test_fibonacci[20-6765-fibonacci_lru_cached]",
+  "time" : {
+    "start" : 1687724686475,
+    "stop" : 1687724686475,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a20349f0ce2eaaaf",
+  "name" : "test_fibonacci[1-1-fibonacci_naive]",
+  "time" : {
+    "start" : 1687724686400,
+    "stop" : 1687724686400,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22bad824e1cf19eb",
+  "name" : "test_fibonacci_endpoint[0-expected0-200]",
+  "time" : {
+    "start" : 1687724686492,
+    "stop" : 1687724686494,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20e1315882f04ebd",
+  "name" : "test_fibonacci[20-6765-fibonacci_dynamic]",
+  "time" : {
+    "start" : 1687724686480,
+    "stop" : 1687724686481,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5dc0691c25db7096",
+  "name" : "test_fibonacci_endpoint[2-expected2-200]",
+  "time" : {
+    "start" : 1687724686506,
+    "stop" : 1687724686507,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98cdc5ca20ba4a9a",
+  "name" : "test_fibonacci[0-0-fibonacci_lru_cached]",
+  "time" : {
+    "start" : 1687724686382,
+    "stop" : 1687724686382,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6543d398d779a8c",
   "name" : "test_fibonacci[0-0-fibonacci_dynamic]",
   "time" : {
-    "start" : 1687700862663,
-    "stop" : 1687700862663,
+    "start" : 1687724686388,
+    "stop" : 1687724686388,
     "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "753e1078782e8390",
-  "name" : "test_fibonacci_endpoint[9-expected3-200]",
+  "uid" : "15999bb062db01c7",
+  "name" : "test_fibonacci[2-1-fibonacci_dynamic_v2]",
   "time" : {
-    "start" : 1687700862828,
-    "stop" : 1687700862829,
+    "start" : 1687724686454,
+    "stop" : 1687724686454,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64ecb8e88b8e673e",
+  "name" : "test_send_email_should_succeed",
+  "time" : {
+    "start" : 1687724686348,
+    "stop" : 1687724686350,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6947c5c3561d17c0",
+  "name" : "test_create_company_with_layoffs_status_should_succeed",
+  "time" : {
+    "start" : 1687724686217,
+    "stop" : 1687724686220,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2bd280c637c17eb",
+  "name" : "test_should_be_ok_if_fails",
+  "time" : {
+    "start" : 1687724686235,
+    "stop" : 1687724686235,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9433aeba7023b753",
+  "name" : "test_fibonacci[20-6765-fibonacci_dynamic_v2]",
+  "time" : {
+    "start" : 1687724686486,
+    "stop" : 1687724686487,
     "duration" : 1
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e5640957524367b2",
+  "uid" : "3063f4b2cc9aafe3",
   "name" : "test_fibonacci[1-1-fibonacci_dynamic_v2]",
   "time" : {
-    "start" : 1687700862713,
-    "stop" : 1687700862713,
+    "start" : 1687724686424,
+    "stop" : 1687724686424,
     "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "7d51267ad5aab34a",
-  "name" : "test_send_email_should_succeed",
+  "uid" : "3ca094aad47b66e0",
+  "name" : "test_zero_companies_should_return_empty_list",
   "time" : {
-    "start" : 1687700862607,
-    "stop" : 1687700862610,
+    "start" : 1687724686166,
+    "stop" : 1687724686173,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3fcb29bd543633a8",
+  "name" : "test_send_email_with_get_verb_should_fail",
+  "time" : {
+    "start" : 1687724686363,
+    "stop" : 1687724686365,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd723411e776bc9b",
+  "name" : "test_fibonacci_endpoint[9-expected3-200]",
+  "time" : {
+    "start" : 1687724686513,
+    "stop" : 1687724686514,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6c76679733486d7",
+  "name" : "test_fibonacci[20-6765-fibonacci_cached]",
+  "time" : {
+    "start" : 1687724686468,
+    "stop" : 1687724686469,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "822e65c368eda85f",
+  "name" : "test_fibonacci[2-1-fibonacci_lru_cached]",
+  "time" : {
+    "start" : 1687724686442,
+    "stop" : 1687724686442,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3f868f5326a03b5",
+  "name" : "test_fibonacci[1-1-fibonacci_dynamic]",
+  "time" : {
+    "start" : 1687724686418,
+    "stop" : 1687724686418,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6c69681f400d8b6",
+  "name" : "test_fibonacci_endpoint[abc-expected4-400]",
+  "time" : {
+    "start" : 1687724686520,
+    "stop" : 1687724686521,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85a02d9689ab359e",
+  "name" : "test_fibonacci[0-0-fibonacci_naive]",
+  "time" : {
+    "start" : 1687724686370,
+    "stop" : 1687724686370,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64293956bf722181",
+  "name" : "test_raise_covid19_exception_should_pass",
+  "time" : {
+    "start" : 1687724686308,
+    "stop" : 1687724686308,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb51d1a85c11e35f",
+  "name" : "test_create_company_with_only_name_all_fields_should_be_default",
+  "time" : {
+    "start" : 1687724686208,
+    "stop" : 1687724686211,
     "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de3634a76f996290",
+  "name" : "test_fibonacci[0-0-fibonacci_dynamic_v2]",
+  "time" : {
+    "start" : 1687724686394,
+    "stop" : 1687724686394,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cad59f44df9ae5c9",
+  "name" : "test_fibonacci_endpoint[1-expected1-200]",
+  "time" : {
+    "start" : 1687724686499,
+    "stop" : 1687724686501,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c06af1d372002895",
+  "name" : "test_logged_info_level",
+  "time" : {
+    "start" : 1687724686321,
+    "stop" : 1687724686322,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42dbb4fec20c44c2",
+  "name" : "test_send_email_without_arguments_should_send_empty_email",
+  "time" : {
+    "start" : 1687724686356,
+    "stop" : 1687724686359,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be79cb53e13c9814",
+  "name" : "test_multiple_companies_exists_should_succeed[3 T Companies]",
+  "time" : {
+    "start" : 1687724686329,
+    "stop" : 1687724686332,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50071b625315a906",
+  "name" : "test_fibonacci[2-1-fibonacci_dynamic]",
+  "time" : {
+    "start" : 1687724686448,
+    "stop" : 1687724686448,
+    "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
