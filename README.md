@@ -26,5 +26,5 @@
 
 
 
-[UdemyCourseLink](https://www.udemy.com/course/pytest-course/)
+[CourseLink](https://www.udemy.com/course/pytest-course/)
 [Сertificate](https://drive.google.com/file/d/1ytop4HcqFgXz6wKZdwvGkiDZAzQlQigD/view?usp=sharing)
