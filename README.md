@@ -1,10 +1,16 @@
 # PythonTestAutomationWithPytest
-  
-[![Python package](https://github.com/Badx86/UDEMY-PythonTestAutomationWithPytest/actions/workflows/TestAutomationWithPytest.yml/badge.svg)](https://github.com/Badx86/UDEMY-PythonTestAutomationWithPytest/actions/workflows/TestAutomationWithPytest.yml)
-
-[![Allure-report](https://img.shields.io/badge/Allure%20Report-deployed-green)](https://badx86.github.io/PythonTestAutomationWithPytest/)
-
-[![dependency - pytest](https://img.shields.io/badge/dependency-pytest-blue?logo=pytest&logoColor=white)](https://pypi.org/project/pytest)
+<a href="https://github.com/Badx86/PythonTestAutomationWithPytest/actions/workflows/TestAutomationWithPytest.yml">
+    <img alt="tests" src="https://github.com/Badx86/PythonTestAutomationWithPytest/actions/workflows/TestAutomationWithPytest.yml/badge.svg">
+</a>
+<a href="https://badx86.github.io/PythonTestAutomationWithPytest/">
+    <img alt="Allure-report" src="https://img.shields.io/badge/Allure%20Report-deployed-green">
+</a>
+<a href="https://pypi.org/project/pytest">
+    <img alt="dependency - pytest" src="https://img.shields.io/badge/dependency-pytest-blue?logo=pytest&logoColor=white">
+</a>
+<a href="https://github.com/psf/black">
+    <img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg">
+</a>
 
 ## How to work with this repository:
 
