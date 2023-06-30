@@ -31,6 +31,8 @@
 - If you wish to run the project on a local server, run the command **pithon manage.py runserver**. Django should be installed for this
 
 
+[BitbucketPipelines](https://bitbucket.org/pytest-udemy-course/pythontestautomationwithpytest/pipelines/results/page/1)
 
 [CourseLink](https://www.udemy.com/course/pytest-course/)
+
 [Сertificate](https://drive.google.com/file/d/1ytop4HcqFgXz6wKZdwvGkiDZAzQlQigD/view?usp=sharing)
