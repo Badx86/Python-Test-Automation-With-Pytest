@@ -1,0 +1,1 @@
+INFO     CORONA_LOGS:test_api.py:111 I am logging info level
