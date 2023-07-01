@@ -1,1 +1,0 @@
-{"uuid": "347a8442-48a0-46de-849c-694d563b6bd9", "children": ["f07a93be-df29-4990-b29f-5b0da631ea17"], "befores": [{"name": "django_mail_patch_dns", "status": "passed", "start": 1688253395400, "stop": 1688253395400}], "start": 1688253395400, "stop": 1688253395404}

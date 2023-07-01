@@ -1,0 +1,4000 @@
+
+ runtime: 0.000153
+
+ runtime: 0.000171
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000143
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.000143
+
+ runtime: 0.000144
+
+ runtime: 0.000143
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000155
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000151
+
+ runtime: 0.000148
+
+ runtime: 0.000155
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000158
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000156
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000154
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000154
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000151
+
+ runtime: 0.000148
+
+ runtime: 0.000155
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000159
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000144
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000157
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000151
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000151
+
+ runtime: 0.000158
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000157
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000151
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000156
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000151
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000151
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000151
+
+ runtime: 0.000153
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000151
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.000151
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000151
+
+ runtime: 0.000149
+
+ runtime: 0.000151
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000159
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000151
+
+ runtime: 0.000154
+
+ runtime: 0.000146
+
+ runtime: 0.000151
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000152
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.000151
+
+ runtime: 0.000147
+
+ runtime: 0.000151
+
+ runtime: 0.000151
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000156
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000207
+
+ runtime: 0.00015
+
+ runtime: 0.000151
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.00015
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000159
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000145
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000151
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000151
+
+ runtime: 0.000152
+
+ runtime: 0.000146
+
+ runtime: 0.000154
+
+ runtime: 0.000151
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000151
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000155
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000157
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000163
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000157
+
+ runtime: 0.00015
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000151
+
+ runtime: 0.000149
+
+ runtime: 0.000157
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000157
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000155
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000144
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000154
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000153
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000151
+
+ runtime: 0.000148
+
+ runtime: 0.000154
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000144
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000155
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000155
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000152
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.00015
+
+ runtime: 0.000152
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.00015
+
+ runtime: 0.000144
+
+ runtime: 0.000144
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000165
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000144
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000153
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000155
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000143
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.00015
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000154
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000151
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000154
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000153
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000151
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000158
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000144
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000144
+
+ runtime: 0.000144
+
+ runtime: 0.000147
+
+ runtime: 0.000151
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000154
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000149
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000144
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000152
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000144
+
+ runtime: 0.000144
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000144
+
+ runtime: 0.000156
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000151
+
+ runtime: 0.000144
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000154
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000151
+
+ runtime: 0.000147
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.000144
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000154
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000144
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000153
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000153
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000154
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000144
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000152
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000144
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.000145
+
+ runtime: 0.000153
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000151
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000144
+
+ runtime: 0.000155
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.00015
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000156
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000144
+
+ runtime: 0.000149
+
+ runtime: 0.000144
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000154
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000144
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000154
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000152
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000145
+
+ runtime: 0.00015
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000157
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000153
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000155
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000144
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000153
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000156
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.00015
+
+ runtime: 0.000151
+
+ runtime: 0.000146
+
+ runtime: 0.000151
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000153
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000152
+
+ runtime: 0.000144
+
+ runtime: 0.000149
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000154
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.00015
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000155
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000154
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000156
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000144
+
+ runtime: 0.000144
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000152
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.00015
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000154
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000147
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000152
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.00015
+
+ runtime: 0.000144
+
+ runtime: 0.000153
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000145
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.00015
+
+ runtime: 0.000145
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000151
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000144
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000151
+
+ runtime: 0.000149
+
+ runtime: 0.000151
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000146
+
+ runtime: 0.000144
+
+ runtime: 0.000158
+
+ runtime: 0.000151
+
+ runtime: 0.000151
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000144
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000144
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000144
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000155
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000147
+
+ runtime: 0.000145
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.000145
+
+ runtime: 0.000151
+
+ runtime: 0.000146
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000149
+
+ runtime: 0.000148
+
+ runtime: 0.000147
+
+ runtime: 0.000148
+
+ runtime: 0.000155
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.000148
+
+ runtime: 0.000149
+
+ runtime: 0.000149
+
+ runtime: 0.00015
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000144
+
+ runtime: 0.00015
+
+ runtime: 0.000145
+
+ runtime: 0.000148
+
+ runtime: 0.00015
+
+ runtime: 0.000146

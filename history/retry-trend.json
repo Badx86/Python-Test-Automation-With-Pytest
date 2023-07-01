@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 30,
+  "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytest/30/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 45,
+    "retry" : 0
+  }
+} ]
