@@ -6,51 +6,51 @@
       "name" : "test_api",
       "children" : [ {
         "name" : "test_zero_companies_should_return_empty_list",
-        "uid" : "95366da61d9c72ad",
+        "uid" : "73db30f6de42c44",
         "parentUid" : "1b966fc045449d29e28e29b0228c8f2c",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458140,
-          "stop" : 1688083458147,
-          "duration" : 7
+          "start" : 1688252145175,
+          "stop" : 1688252145184,
+          "duration" : 9
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_one_company_exists_should_succeed",
-        "uid" : "c5f4fdfa05b5f2d7",
+        "uid" : "1535f47c611b121e",
         "parentUid" : "1b966fc045449d29e28e29b0228c8f2c",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458154,
-          "stop" : 1688083458156,
-          "duration" : 2
+          "start" : 1688252145194,
+          "stop" : 1688252145198,
+          "duration" : 4
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_create_company_without_arguments_should_fail",
-        "uid" : "ef64c024a91f9ec9",
+        "uid" : "b92d880f6f38adf8",
         "parentUid" : "1b966fc045449d29e28e29b0228c8f2c",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458163,
-          "stop" : 1688083458165,
-          "duration" : 2
+          "start" : 1688252145208,
+          "stop" : 1688252145211,
+          "duration" : 3
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_create_existing_company_should_fail",
-        "uid" : "1460ae6b07420b3d",
+        "uid" : "97c5d9e836770f9b",
         "parentUid" : "1b966fc045449d29e28e29b0228c8f2c",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458171,
-          "stop" : 1688083458175,
+          "start" : 1688252145221,
+          "stop" : 1688252145225,
           "duration" : 4
         },
         "flaky" : false,
@@ -58,64 +58,64 @@
         "parameters" : [ ]
       }, {
         "name" : "test_create_company_with_only_name_all_fields_should_be_default",
-        "uid" : "6ce9d0ff96661991",
+        "uid" : "f758d4252a35e8a9",
         "parentUid" : "1b966fc045449d29e28e29b0228c8f2c",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458181,
-          "stop" : 1688083458184,
-          "duration" : 3
+          "start" : 1688252145235,
+          "stop" : 1688252145240,
+          "duration" : 5
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_create_company_with_layoffs_status_should_succeed",
-        "uid" : "4bce2cec9ae4c412",
+        "uid" : "78ae76b6fe06ff94",
         "parentUid" : "1b966fc045449d29e28e29b0228c8f2c",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458190,
-          "stop" : 1688083458193,
-          "duration" : 3
+          "start" : 1688252145249,
+          "stop" : 1688252145253,
+          "duration" : 4
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_create_company_with_wrong_status_should_fail",
-        "uid" : "b5f2e4c5a483eed2",
+        "uid" : "4b3e9f146c9c6bd7",
         "parentUid" : "1b966fc045449d29e28e29b0228c8f2c",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458199,
-          "stop" : 1688083458202,
-          "duration" : 3
+          "start" : 1688252145264,
+          "stop" : 1688252145268,
+          "duration" : 4
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_should_be_ok_if_fails",
-        "uid" : "28b95c3ccb740793",
+        "uid" : "8bd3c09831fd0bfc",
         "parentUid" : "1b966fc045449d29e28e29b0228c8f2c",
         "status" : "skipped",
         "time" : {
-          "start" : 1688083458208,
-          "stop" : 1688083458209,
-          "duration" : 1
+          "start" : 1688252145277,
+          "stop" : 1688252145277,
+          "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_should_be_skipped",
-        "uid" : "ca6e9f71fef1062c",
+        "uid" : "c9f23a0c7884a35e",
         "parentUid" : "1b966fc045449d29e28e29b0228c8f2c",
         "status" : "skipped",
         "time" : {
-          "start" : 1688083458274,
-          "stop" : 1688083458274,
+          "start" : 1688252145368,
+          "stop" : 1688252145368,
           "duration" : 0
         },
         "flaky" : false,
@@ -123,38 +123,38 @@
         "parameters" : [ ]
       }, {
         "name" : "test_raise_covid19_exception_should_pass",
-        "uid" : "a70928240e29c255",
+        "uid" : "b669a30aaa2c8ba2",
         "parentUid" : "1b966fc045449d29e28e29b0228c8f2c",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458278,
-          "stop" : 1688083458279,
-          "duration" : 1
+          "start" : 1688252145373,
+          "stop" : 1688252145373,
+          "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_logged_warning_level",
-        "uid" : "3df780f217a3f149",
+        "uid" : "3d78d1d0c2065a5f",
         "parentUid" : "1b966fc045449d29e28e29b0228c8f2c",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458284,
-          "stop" : 1688083458285,
-          "duration" : 1
+          "start" : 1688252145382,
+          "stop" : 1688252145382,
+          "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_logged_info_level",
-        "uid" : "78d0eeabeef37df0",
+        "uid" : "b36248e659aeba3",
         "parentUid" : "1b966fc045449d29e28e29b0228c8f2c",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458291,
-          "stop" : 1688083458291,
+          "start" : 1688252145391,
+          "stop" : 1688252145391,
           "duration" : 0
         },
         "flaky" : false,
@@ -162,25 +162,25 @@
         "parameters" : [ ]
       }, {
         "name" : "test_multiple_companies_exists_should_succeed[3 T Companies]",
-        "uid" : "e5696c792cbec598",
+        "uid" : "5d5aeeccbcfd35fe",
         "parentUid" : "1b966fc045449d29e28e29b0228c8f2c",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458298,
-          "stop" : 1688083458301,
-          "duration" : 3
+          "start" : 1688252145402,
+          "stop" : 1688252145406,
+          "duration" : 4
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "['Tiktok', 'Twitch', 'Test Company INC']" ]
       }, {
         "name" : "test_multiple_companies_exists_should_succeed[Zuckerberg Companies]",
-        "uid" : "acac0f93c6eae91b",
+        "uid" : "67d8c7a68cab6a0d",
         "parentUid" : "1b966fc045449d29e28e29b0228c8f2c",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458308,
-          "stop" : 1688083458311,
+          "start" : 1688252145416,
+          "stop" : 1688252145419,
           "duration" : 3
         },
         "flaky" : false,
@@ -192,12 +192,12 @@
       "name" : "test_emails",
       "children" : [ {
         "name" : "test_send_email_should_succeed",
-        "uid" : "191460456c68965b",
+        "uid" : "f6c8db7fd0fcf70",
         "parentUid" : "4c4c834d78f4d5ea168ae914eab3f10a",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458317,
-          "stop" : 1688083458319,
+          "start" : 1688252145429,
+          "stop" : 1688252145431,
           "duration" : 2
         },
         "flaky" : false,
@@ -205,25 +205,25 @@
         "parameters" : [ ]
       }, {
         "name" : "test_send_email_without_arguments_should_send_empty_email",
-        "uid" : "765f8f416a6bdf7c",
+        "uid" : "12e287ec9481ee38",
         "parentUid" : "4c4c834d78f4d5ea168ae914eab3f10a",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458325,
-          "stop" : 1688083458327,
-          "duration" : 2
+          "start" : 1688252145441,
+          "stop" : 1688252145444,
+          "duration" : 3
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_send_email_with_get_verb_should_fail",
-        "uid" : "406e650699da4cdd",
+        "uid" : "aad6672eed8f7f00",
         "parentUid" : "4c4c834d78f4d5ea168ae914eab3f10a",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458331,
-          "stop" : 1688083458333,
+          "start" : 1688252145451,
+          "stop" : 1688252145453,
           "duration" : 2
         },
         "flaky" : false,
@@ -239,285 +239,285 @@
       "name" : "test_fibonacci",
       "children" : [ {
         "name" : "test_fibonacci[0-0-fibonacci_naive]",
-        "uid" : "48d4df5cc2c7fae",
+        "uid" : "d5c26db2875a6b09",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458338,
-          "stop" : 1688083458338,
+          "start" : 1688252145461,
+          "stop" : 1688252145461,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "0", "<function fibonacci_naive at 0x7fc6b587d1b0>", "0" ]
+        "parameters" : [ "0", "<function fibonacci_naive at 0x7fa3ebb5d1b0>", "0" ]
       }, {
         "name" : "test_fibonacci[0-0-fibonacci_cached]",
-        "uid" : "9e2db96353fb68e2",
+        "uid" : "72e06fe195021fe",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458344,
-          "stop" : 1688083458344,
+          "start" : 1688252145470,
+          "stop" : 1688252145470,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "0", "<function fibonacci_cached at 0x7fc6b587d240>", "0" ]
+        "parameters" : [ "0", "<function fibonacci_cached at 0x7fa3ebb5d240>", "0" ]
       }, {
         "name" : "test_fibonacci[0-0-fibonacci_lru_cached]",
-        "uid" : "44415c2ea539c138",
+        "uid" : "c66f5fb286206413",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458349,
-          "stop" : 1688083458349,
-          "duration" : 0
+          "start" : 1688252145478,
+          "stop" : 1688252145479,
+          "duration" : 1
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "0", "<functools._lru_cache_wrapper object at 0x7fc6b5750670>", "0" ]
+        "parameters" : [ "0", "<functools._lru_cache_wrapper object at 0x7fa3eba38670>", "0" ]
       }, {
         "name" : "test_fibonacci[0-0-fibonacci_dynamic]",
-        "uid" : "59250fc8fe77995e",
+        "uid" : "628ade7035810790",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458355,
-          "stop" : 1688083458355,
+          "start" : 1688252145487,
+          "stop" : 1688252145487,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "0", "<function fibonacci_dynamic at 0x7fc6b57aa290>", "0" ]
+        "parameters" : [ "0", "<function fibonacci_dynamic at 0x7fa3eba9a290>", "0" ]
       }, {
         "name" : "test_fibonacci[0-0-fibonacci_dynamic_v2]",
-        "uid" : "55838ced3aab450f",
+        "uid" : "933d8152b36f09bf",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458360,
-          "stop" : 1688083458360,
+          "start" : 1688252145496,
+          "stop" : 1688252145496,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "0", "<function fibonacci_dynamic_v2 at 0x7fc6b57aa710>", "0" ]
+        "parameters" : [ "0", "<function fibonacci_dynamic_v2 at 0x7fa3eba9a710>", "0" ]
       }, {
         "name" : "test_fibonacci[1-1-fibonacci_naive]",
-        "uid" : "a93230923822f76f",
+        "uid" : "c00847f71c4a7949",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458366,
-          "stop" : 1688083458366,
+          "start" : 1688252145504,
+          "stop" : 1688252145504,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "1", "<function fibonacci_naive at 0x7fc6b587d1b0>", "1" ]
+        "parameters" : [ "1", "<function fibonacci_naive at 0x7fa3ebb5d1b0>", "1" ]
       }, {
         "name" : "test_fibonacci[1-1-fibonacci_cached]",
-        "uid" : "5aecc51a8d657836",
+        "uid" : "c2c9da386331b23",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458372,
-          "stop" : 1688083458372,
+          "start" : 1688252145514,
+          "stop" : 1688252145514,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "1", "<function fibonacci_cached at 0x7fc6b587d240>", "1" ]
+        "parameters" : [ "1", "<function fibonacci_cached at 0x7fa3ebb5d240>", "1" ]
       }, {
         "name" : "test_fibonacci[1-1-fibonacci_lru_cached]",
-        "uid" : "78a1eaf6a5c73268",
+        "uid" : "fd10ee1ae639b8fa",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458377,
-          "stop" : 1688083458377,
-          "duration" : 0
+          "start" : 1688252145522,
+          "stop" : 1688252145523,
+          "duration" : 1
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "1", "<functools._lru_cache_wrapper object at 0x7fc6b5750670>", "1" ]
+        "parameters" : [ "1", "<functools._lru_cache_wrapper object at 0x7fa3eba38670>", "1" ]
       }, {
         "name" : "test_fibonacci[1-1-fibonacci_dynamic]",
-        "uid" : "2e7523524d0bd9ae",
+        "uid" : "fec11962b21bb657",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458383,
-          "stop" : 1688083458383,
+          "start" : 1688252145531,
+          "stop" : 1688252145531,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "1", "<function fibonacci_dynamic at 0x7fc6b57aa290>", "1" ]
+        "parameters" : [ "1", "<function fibonacci_dynamic at 0x7fa3eba9a290>", "1" ]
       }, {
         "name" : "test_fibonacci[1-1-fibonacci_dynamic_v2]",
-        "uid" : "e08d00659cae1f08",
+        "uid" : "f959e7779dea060",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458388,
-          "stop" : 1688083458388,
-          "duration" : 0
+          "start" : 1688252145539,
+          "stop" : 1688252145540,
+          "duration" : 1
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "1", "<function fibonacci_dynamic_v2 at 0x7fc6b57aa710>", "1" ]
+        "parameters" : [ "1", "<function fibonacci_dynamic_v2 at 0x7fa3eba9a710>", "1" ]
       }, {
         "name" : "test_fibonacci[2-1-fibonacci_naive]",
-        "uid" : "5377fa5c23b3e586",
+        "uid" : "b33936fb611491e6",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458394,
-          "stop" : 1688083458394,
-          "duration" : 0
+          "start" : 1688252145549,
+          "stop" : 1688252145550,
+          "duration" : 1
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "1", "<function fibonacci_naive at 0x7fc6b587d1b0>", "2" ]
+        "parameters" : [ "1", "<function fibonacci_naive at 0x7fa3ebb5d1b0>", "2" ]
       }, {
         "name" : "test_fibonacci[2-1-fibonacci_cached]",
-        "uid" : "d09f0f742334555d",
+        "uid" : "5ed644fcec767a04",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458399,
-          "stop" : 1688083458399,
+          "start" : 1688252145558,
+          "stop" : 1688252145558,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "1", "<function fibonacci_cached at 0x7fc6b587d240>", "2" ]
+        "parameters" : [ "1", "<function fibonacci_cached at 0x7fa3ebb5d240>", "2" ]
       }, {
         "name" : "test_fibonacci[2-1-fibonacci_lru_cached]",
-        "uid" : "f1f32a69f2316431",
+        "uid" : "23200a94449b85db",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458405,
-          "stop" : 1688083458405,
-          "duration" : 0
+          "start" : 1688252145566,
+          "stop" : 1688252145567,
+          "duration" : 1
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "1", "<functools._lru_cache_wrapper object at 0x7fc6b5750670>", "2" ]
+        "parameters" : [ "1", "<functools._lru_cache_wrapper object at 0x7fa3eba38670>", "2" ]
       }, {
         "name" : "test_fibonacci[2-1-fibonacci_dynamic]",
-        "uid" : "5d23b016e03257c1",
+        "uid" : "f759a44a5bc712e8",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458410,
-          "stop" : 1688083458410,
+          "start" : 1688252145575,
+          "stop" : 1688252145575,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "1", "<function fibonacci_dynamic at 0x7fc6b57aa290>", "2" ]
+        "parameters" : [ "1", "<function fibonacci_dynamic at 0x7fa3eba9a290>", "2" ]
       }, {
         "name" : "test_fibonacci[2-1-fibonacci_dynamic_v2]",
-        "uid" : "6ff4974b53ff00e4",
+        "uid" : "e10180963fee2a87",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458416,
-          "stop" : 1688083458416,
-          "duration" : 0
+          "start" : 1688252145583,
+          "stop" : 1688252145584,
+          "duration" : 1
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "1", "<function fibonacci_dynamic_v2 at 0x7fc6b57aa710>", "2" ]
+        "parameters" : [ "1", "<function fibonacci_dynamic_v2 at 0x7fa3eba9a710>", "2" ]
       }, {
         "name" : "test_fibonacci[20-6765-fibonacci_naive]",
-        "uid" : "e89e67b3ba1bc988",
+        "uid" : "7d5106ab7b17fddb",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458421,
-          "stop" : 1688083458424,
-          "duration" : 3
+          "start" : 1688252145591,
+          "stop" : 1688252145595,
+          "duration" : 4
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "6765", "<function fibonacci_naive at 0x7fc6b587d1b0>", "20" ]
+        "parameters" : [ "6765", "<function fibonacci_naive at 0x7fa3ebb5d1b0>", "20" ]
       }, {
         "name" : "test_fibonacci[20-6765-fibonacci_cached]",
-        "uid" : "73ca4ac37770f2af",
+        "uid" : "402679867e2ffb0a",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458429,
-          "stop" : 1688083458429,
+          "start" : 1688252145604,
+          "stop" : 1688252145604,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "6765", "<function fibonacci_cached at 0x7fc6b587d240>", "20" ]
+        "parameters" : [ "6765", "<function fibonacci_cached at 0x7fa3ebb5d240>", "20" ]
       }, {
         "name" : "test_fibonacci[20-6765-fibonacci_lru_cached]",
-        "uid" : "1344a874921cd424",
+        "uid" : "e12326a987298094",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458434,
-          "stop" : 1688083458435,
+          "start" : 1688252145612,
+          "stop" : 1688252145613,
           "duration" : 1
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "6765", "<functools._lru_cache_wrapper object at 0x7fc6b5750670>", "20" ]
+        "parameters" : [ "6765", "<functools._lru_cache_wrapper object at 0x7fa3eba38670>", "20" ]
       }, {
         "name" : "test_fibonacci[20-6765-fibonacci_dynamic]",
-        "uid" : "a959eed2f387b7f7",
+        "uid" : "ef73acb44007ed75",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458440,
-          "stop" : 1688083458440,
+          "start" : 1688252145621,
+          "stop" : 1688252145621,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "6765", "<function fibonacci_dynamic at 0x7fc6b57aa290>", "20" ]
+        "parameters" : [ "6765", "<function fibonacci_dynamic at 0x7fa3eba9a290>", "20" ]
       }, {
         "name" : "test_fibonacci[20-6765-fibonacci_dynamic_v2]",
-        "uid" : "995327a242a071fd",
+        "uid" : "71569482f1eb3742",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458445,
-          "stop" : 1688083458446,
-          "duration" : 1
+          "start" : 1688252145629,
+          "stop" : 1688252145629,
+          "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "6765", "<function fibonacci_dynamic_v2 at 0x7fc6b57aa710>", "20" ]
+        "parameters" : [ "6765", "<function fibonacci_dynamic_v2 at 0x7fa3eba9a710>", "20" ]
       }, {
         "name" : "test_fibonacci_endpoint[0-expected0-200]",
-        "uid" : "e9766d239c101f88",
+        "uid" : "9f466de9242db0f1",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458451,
-          "stop" : 1688083458452,
-          "duration" : 1
+          "start" : 1688252145638,
+          "stop" : 1688252145640,
+          "duration" : 2
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "{'fibonacci': 0}", "200", "0" ]
       }, {
         "name" : "test_fibonacci_endpoint[1-expected1-200]",
-        "uid" : "ab5aa1029230ed22",
+        "uid" : "64f43902facb1802",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458457,
-          "stop" : 1688083458459,
+          "start" : 1688252145647,
+          "stop" : 1688252145649,
           "duration" : 2
         },
         "flaky" : false,
@@ -525,12 +525,12 @@
         "parameters" : [ "{'fibonacci': 1}", "200", "1" ]
       }, {
         "name" : "test_fibonacci_endpoint[2-expected2-200]",
-        "uid" : "13d48c7e5d7d6750",
+        "uid" : "8a41257ab1b5aa1f",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458464,
-          "stop" : 1688083458465,
+          "start" : 1688252145657,
+          "stop" : 1688252145658,
           "duration" : 1
         },
         "flaky" : false,
@@ -538,38 +538,38 @@
         "parameters" : [ "{'fibonacci': 1}", "200", "2" ]
       }, {
         "name" : "test_fibonacci_endpoint[9-expected3-200]",
-        "uid" : "8383113edbe9f55a",
+        "uid" : "8512cd7b9527625c",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458471,
-          "stop" : 1688083458472,
-          "duration" : 1
+          "start" : 1688252145666,
+          "stop" : 1688252145668,
+          "duration" : 2
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "{'fibonacci': 34}", "200", "9" ]
       }, {
         "name" : "test_fibonacci_endpoint[abc-expected4-400]",
-        "uid" : "c9e33753e414e4d8",
+        "uid" : "8573d7dce5e4aa76",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458477,
-          "stop" : 1688083458479,
-          "duration" : 2
+          "start" : 1688252145676,
+          "stop" : 1688252145677,
+          "duration" : 1
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "{'error': 'n must be an integer'}", "400", "'abc'" ]
       }, {
         "name" : "test_fibonacci_endpoint[-5-expected5-400]",
-        "uid" : "d045039e9ee09290",
+        "uid" : "55ca58a1bb4f2e6e",
         "parentUid" : "e85a3ffea142839cac99c5c115771e5b",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458484,
-          "stop" : 1688083458485,
+          "start" : 1688252145686,
+          "stop" : 1688252145687,
           "duration" : 1
         },
         "flaky" : false,
@@ -581,12 +581,12 @@
       "name" : "test_performance",
       "children" : [ {
         "name" : "test_performance",
-        "uid" : "c794525db40a4c61",
+        "uid" : "7e86ed50388c47de",
         "parentUid" : "a8c04258513d71ae97cd7792c5ef1381",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458490,
-          "stop" : 1688083458490,
+          "start" : 1688252145695,
+          "stop" : 1688252145695,
           "duration" : 0
         },
         "flaky" : false,
@@ -594,13 +594,13 @@
         "parameters" : [ ]
       }, {
         "name" : "test_performance_under_load",
-        "uid" : "2796040ec03cd93f",
+        "uid" : "4663d409b768054d",
         "parentUid" : "a8c04258513d71ae97cd7792c5ef1381",
         "status" : "passed",
         "time" : {
-          "start" : 1688083458495,
-          "stop" : 1688083458774,
-          "duration" : 279
+          "start" : 1688252145701,
+          "stop" : 1688252146085,
+          "duration" : 384
         },
         "flaky" : false,
         "newFailed" : false,
