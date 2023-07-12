@@ -2,9 +2,9 @@
   "name" : "GitHub Actions",
   "type" : "github",
   "url" : "https://Badx86.github.io/PythonTestAutomationWithPytest",
-  "buildOrder" : 30,
-  "buildName" : "GitHub Actions Run #5433601448",
-  "buildUrl" : "https://github.com/Badx86/PythonTestAutomationWithPytest/actions/runs/5433601448",
+  "buildOrder" : 31,
+  "buildName" : "GitHub Actions Run #5534441535",
+  "buildUrl" : "https://github.com/Badx86/PythonTestAutomationWithPytest/actions/runs/5534441535",
   "reportName" : "Allure Report with history",
-  "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytest/30/"
+  "reportUrl" : "https://Badx86.github.io/PythonTestAutomationWithPytest/31/"
 } ]
