@@ -2,7 +2,7 @@
 <a href="https://github.com/Badx86/PythonTestAutomationWithPytest/actions/workflows/TestAutomationWithPytest.yml">
     <img alt="tests" src="https://github.com/Badx86/PythonTestAutomationWithPytest/actions/workflows/TestAutomationWithPytest.yml/badge.svg">
 </a>
-<a href="https://badx86.github.io/PythonTestAutomationWithPytest/">
+<a href="https://badx86.github.io/Python-Test-Automation-With-Pytest/">
     <img alt="Allure-report" src="https://img.shields.io/badge/Allure%20Report-deployed-green">
 </a>
 <a href="https://pypi.org/project/pytest">
